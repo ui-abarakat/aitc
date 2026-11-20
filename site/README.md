@@ -14,4 +14,3 @@ once on load (the only ambient motion); each proposal shows its idea, a colour /
 and CSS mock-ups of the logo in use (business card, app icon, avatar, website header, entrance sign).
 Noto Kufi Arabic for headings, IBM Plex Sans Arabic for text.
 
-`logos/` holds the original designer SVGs. Note: proposal-4.svg embeds two low-res PNGs for its outer curves.
